@@ -12,7 +12,7 @@ Hardware needed to interface  MCP23008 8-Channel 1-Amp SPDT Signal Relay Control
 2. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-micro-with-i2c-expansion-port/">Arduino Micro</a>
 3. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-uno/">Arduino uno</a>
 4. <a href="https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-communications-interface/">Arduino Due</a>
-5. <a href="3. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>"> MCP23008 8-Channel 1-Amp SPDT Signal Relay Controller</a>
+5. <a href="3. <a href="https://store.ncd.io/product/8-channel-1-amp-spdt-signal-relay-controller-with-i2c-interface/">MCP23008 8-Channel 1-Amp SPDT Signal Relay Controller</a>
 6. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
 ## Arduino
